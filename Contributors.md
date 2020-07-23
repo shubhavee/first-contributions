@@ -1927,6 +1927,7 @@ Kebana Modise
 - [Alvaro Croce](https://github.com/amcroce)
 - [Adam Galt](https://github.com/AdamGalt)
 - Ali Habeeb Aladross
+- [Aniruddha Dutta](https://github.com/duttaANI)
 - Danielle Rosenfeld-Lovell (https://github.com/magicpuddingcat)
 - [Daniel Cosby](https://github.com/daaanosaur)
 - [Forest Pfeiffer](https://github.com/pfife00)
